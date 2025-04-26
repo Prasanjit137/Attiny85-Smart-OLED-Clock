@@ -33,6 +33,9 @@ This project is a Smart, Power-Efficient Digital OLED Clock built using the ATti
 - Lipo Battery Charging Module: TP4050 module
 - Switches
 
+### Schematic Diagram
+![App Screenshot](https://github.com/Prasanjit137/Attiny85-Smart-OLED-Clock/blob/0da069395b2fd593bac9f89493a6adcefdb5dd78/Schematic_SMD-Clock-latest.png)
+
 
 ## Repository Contents
 - Program Code (.ino file)
@@ -52,6 +55,8 @@ This project is a Smart, Power-Efficient Digital OLED Clock built using the ATti
 - #### Auto Power OFF:
 	After 5 seconds, the ATtiny85 sends a LOW signal to the latch circuit, turning itself OFF to save battery.
 
+### Final Build
+![App Screenshot](https://github.com/Prasanjit137/Attiny85-Smart-OLED-Clock/blob/0da069395b2fd593bac9f89493a6adcefdb5dd78/Final.JPG)
 
 ## Power Efficiency
 - Idle Current Draw: ~0.22 mA
